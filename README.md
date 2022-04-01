@@ -31,7 +31,7 @@
 
 ### Release History
 
--0.3.2 / 2021-12-03
+#### 0.3.2 / 2021-12-03
 ====================
 - Added: New DBMS mode (pluggable) to upload, download and manage files and folders i.e. "PowerDrive" introduced.
 - Added: ExecTime, ReqResTime, and ParseTime for all KvpDB APIs.
